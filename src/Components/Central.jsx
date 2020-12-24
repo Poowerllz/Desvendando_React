@@ -3,12 +3,10 @@ import React from 'react';
 export default function() {
     return (
         <React.Fragment>
-        <div>
-            <body>
+            <build>
               <h1>Central</h1>
                 <h2>Eu sou uma aplicação em react!</h2>  
-            </body>
-        </div>
+            </build>
         </React.Fragment>
     )
 }

@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Central from './Components/Central'
 import Topo from './Components/Topo'
+import Central from './Components/Central'
+import Inferior from './Components/Inferior'
 
 import './App.css'
 
@@ -9,7 +10,8 @@ import './App.css'
 ReactDOM.render(
   <div>
     <Topo></Topo>
-        <Central></Central>
+    <Central></Central>
+    <Inferior></Inferior>
   </div>,
   document.getElementById('root')
 );
