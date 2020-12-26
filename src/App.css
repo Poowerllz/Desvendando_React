@@ -5,30 +5,9 @@
   border: 0;
 }
 
-html, div, body{
+html, #root,.Content , body{
   width: 100%;
   height: 100%;
-}
-
-header{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  height: 6%;
-  background-color: #6b6a60;
-  color: white;
-}
-
-
-build {
-  width: 100%;
-  height: 88%;
-  background-color: #dcd9c9;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
 }
 
 footer{
