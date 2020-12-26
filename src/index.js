@@ -6,7 +6,6 @@ import Inferior from './Components/Inferior'
 
 import './App.css'
 
-
 ReactDOM.render(
   <div>
     <Topo></Topo>
